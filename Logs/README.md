@@ -17,3 +17,21 @@ I had problems with aligning my texts.
 ![](./Screenshot%20(2).png)
 
 Looking forward to another productive day tomorrow!
+---
+
+# Day 002
+
+**Date:** August 29, 2023
+**Time Spent:** unknown
+
+**Today's Progress:**
+Revised the tasks in C in the ALX_SE program and did some magics in flutter.
+
+**Thoughts:**
+Its always good to do so when you look back you will have something to talk about. I can't belive how many tasks I've solved in the ALX_SE program.
+
+**Challenges:**
+I'm not able to push to my github from my vscode
+
+Looking forward to another productive day tomorrow!
+---
