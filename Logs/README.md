@@ -19,6 +19,7 @@ I had problems with aligning my texts.
 Looking forward to another productive day tomorrow!
 ---
 
+
 # Day 002
 
 **Date:** August 29, 2023
@@ -32,6 +33,23 @@ Its always good to do so when you look back you will have something to talk abou
 
 **Challenges:**
 I'm not able to push to my github from my vscode
+
+Looking forward to another productive day tomorrow!
+---
+
+
+# Day 003
+
+**Date:** August 30, 2023
+**Time Spent:** unknown
+
+**Today's Progress:**
+Opened a HackerRank account. Solved some tasks in C. And earned a basic C badge.
+
+**Thoughts:** When you dont do something for a long time you tend to forget them. I'm having problems with some of the concepts I already learnt in C before.
+
+**Challenges:**
+Still havent found a solution to pushing to my github from my vs code
 
 Looking forward to another productive day tomorrow!
 ---
