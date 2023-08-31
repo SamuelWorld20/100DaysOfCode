@@ -51,5 +51,9 @@ Opened a HackerRank account. Solved some tasks in C. And earned a basic C badge.
 **Challenges:**
 Still havent found a solution to pushing to my github from my vs code
 
+**Progress Screenshot:**
+![](./Screenshot%20(69).png)
+![](./Screenshot%20(72).png)
+
 Looking forward to another productive day tomorrow!
 ---
