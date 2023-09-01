@@ -46,7 +46,8 @@ Looking forward to another productive day tomorrow!
 **Today's Progress:**
 Opened a HackerRank account. Solved some tasks in C. And earned a basic C badge.
 
-**Thoughts:** When you dont do something for a long time you tend to forget them. I'm having problems with some of the concepts I already learnt in C before.
+**Thoughts:**
+When you dont do something for a long time you tend to forget them. I'm having problems with some of the concepts I already learnt in C before.
 
 **Challenges:**
 Still havent found a solution to pushing to my github from my vs code
@@ -54,6 +55,24 @@ Still havent found a solution to pushing to my github from my vs code
 **Progress Screenshot:**
 ![](./Screenshot%20(69).png)
 ![](./Screenshot%20(72).png)
+
+Looking forward to another productive day tomorrow!
+---
+
+
+# Day 004
+
+**Date:** August 31, 2023
+**Time Spent:** unknown
+
+**Today's Progress:**
+I'm building a project with flutter it took a lot of my time I couldn't even check my HackerRank today maybe tomorrow.
+
+**Thoughts:**
+It always feel good to do what you like.
+
+**Challenges:**
+My emulator is wasting a lot of time to load.
 
 Looking forward to another productive day tomorrow!
 ---
